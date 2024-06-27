@@ -1,2 +1,18 @@
+Hackathon submission:
 https://devfolio.co/projects/staxer-3c2c
 https://docs.google.com/presentation/d/1ihKDD6qb1kNC8X3Bi2MADqPB_o13a2Uz-LIL0-A53oY/
+
+
+ERC20:
+0xd9145CCE52D386f254917e481eB44e9943F39138.
+
+
+Factory Contracts:
+
+0xD7ACd2a9FD159E69Bb102A1ca21C9a3e3A5F771B
+
+["OxAb8483F64d9C6d1EcF9b849Ae677dD3315835cb2"]
+
+["Ox4B20993Bc481177ec7E81571ceCaE8A9e22C02db"]
+
+["Qxd9145CCF52D386f254917e481eB4489943F39138"]
